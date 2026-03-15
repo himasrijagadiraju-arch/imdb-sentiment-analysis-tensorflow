@@ -1,11 +1,16 @@
  IMDB Sentiment Analysis using TensorFlow
+
 This project performs sentiment analysis on movie reviews using a neural network built with TensorFlow. The model is trained on the IMDB Movie Reviews dataset to classify reviews as positive or negative.
+
 Technologies Used
+
 * Python
 * TensorFlow
 * Keras
 * TensorFlow Datasets
+
 Dataset
+
 The project uses the IMDB Movie Reviews dataset which contains 50,000 labeled movie reviews. The dataset is split into training and testing sets for building and evaluating the model.
  Model Architecture
 
